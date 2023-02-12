@@ -1,0 +1,1 @@
+window.electronMessagePort.postmessage('ping');
